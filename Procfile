@@ -1,0 +1,1 @@
+web: fastmcp run my_server.py:mcp --transport http --host 0.0.0.0 --port $PORT
